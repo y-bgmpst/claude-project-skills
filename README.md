@@ -24,6 +24,11 @@ Each skill lives under `skills/<skill-name>/` and contains:
 
 Start with `skills/bootstrap-router/Skill.md`, then load only the matching file from `docs/context-groups/`.
 
+## Bootstrap entrypoints for new repos
+
+- [claude.md](claude.md)
+- [project.md](project.md)
+
 ## Wiki
 
 Start here: [docs/wiki/README.md](docs/wiki/README.md)
