@@ -12,11 +12,14 @@ cd claude-project-skills
 
 Then open `claude.md` in a new repo, or use `skills/bootstrap-router/Skill.md` to pick the smallest matching context file.
 
+For Kubernetes or Docker work, load `skills/kubernetes-docker-ops-guardrails/Skill.md` and `docs/context-groups/container-ops.md`.
+
 ## Skills
 
 - `sql-security-guardrails`
 - `proxmox-ops-guardrails`
 - `web-app-security-guardrails`
+- `kubernetes-docker-ops-guardrails`
 - `rust-security-guardrails`
 - `crusty-sort-guardrails`
 - `crusty-dlp-guardrails`

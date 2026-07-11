@@ -28,6 +28,7 @@ The repository deliberately keeps the runtime surface small:
 - `sql-security-guardrails`
 - `proxmox-ops-guardrails`
 - `web-app-security-guardrails`
+- `kubernetes-docker-ops-guardrails`
 - `rust-security-guardrails`
 - `crusty-sort-guardrails`
 - `crusty-dlp-guardrails`
