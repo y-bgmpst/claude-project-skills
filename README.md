@@ -11,6 +11,7 @@ Reusable Claude skills adapted from the Codex skill pack.
 - `meeting-notes-and-actions`
 - `spreadsheet-formula-helper`
 - `file-organizer`
+- `bootstrap-router`
 
 ## Layout
 
@@ -18,6 +19,10 @@ Each skill lives under `skills/<skill-name>/` and contains:
 
 - `Skill.md`
 - optional supporting files when needed
+
+## Token-lean routing
+
+Start with `skills/bootstrap-router/Skill.md`, then load only the matching file from `docs/context-groups/`.
 
 ## Wiki
 
