@@ -7,6 +7,10 @@ Reusable Claude skills adapted from the Codex skill pack.
 - `rust-security-guardrails`
 - `crusty-sort-guardrails`
 - `crusty-dlp-guardrails`
+- `email-draft-polish`
+- `meeting-notes-and-actions`
+- `spreadsheet-formula-helper`
+- `file-organizer`
 
 ## Layout
 

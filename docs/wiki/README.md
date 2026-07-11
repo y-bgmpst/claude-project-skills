@@ -27,6 +27,10 @@ The repository deliberately keeps the runtime surface small:
 - `rust-security-guardrails`
 - `crusty-sort-guardrails`
 - `crusty-dlp-guardrails`
+- `email-draft-polish`
+- `meeting-notes-and-actions`
+- `spreadsheet-formula-helper`
+- `file-organizer`
 
 ## Reading order
 
