@@ -13,6 +13,7 @@ Start here when opening a new repo with Claude.
 - skill edits -> `docs/context-groups/skill-authoring.md`
 - safety / mutations -> `docs/context-groups/safety.md`
 - releases -> `docs/context-groups/release.md`
+- Kubernetes / Docker / container ops -> `docs/context-groups/container-ops.md`
 - common user tasks -> `docs/context-groups/common-tasks.md`
 
 ## Mac rule
