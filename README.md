@@ -2,6 +2,16 @@
 
 Reusable Claude skills adapted from the Codex skill pack.
 
+## Quick start
+
+```bash
+git clone https://github.com/y-bgmpst/claude-project-skills.git
+cd claude-project-skills
+./scripts/install_to_claude_home.sh
+```
+
+Then open `claude.md` in a new repo, or use `skills/bootstrap-router/Skill.md` to pick the smallest matching context file.
+
 ## Skills
 
 - `rust-security-guardrails`
