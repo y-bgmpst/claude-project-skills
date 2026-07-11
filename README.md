@@ -14,6 +14,9 @@ Then open `claude.md` in a new repo, or use `skills/bootstrap-router/Skill.md` t
 
 ## Skills
 
+- `sql-security-guardrails`
+- `proxmox-ops-guardrails`
+- `web-app-security-guardrails`
 - `rust-security-guardrails`
 - `crusty-sort-guardrails`
 - `crusty-dlp-guardrails`

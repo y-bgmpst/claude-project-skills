@@ -4,6 +4,9 @@ Use this group when choosing which skill to suggest for a normal user task.
 
 ## Suggested skill routing
 
+- SQL, database security, migrations, or query safety -> `sql-security-guardrails`
+- Proxmox VE automation, VM/container ops, or API-token work -> `proxmox-ops-guardrails`
+- web app security, auth, forms, or route-handler work -> `web-app-security-guardrails`
 - email drafting or rewriting -> `email-draft-polish`
 - meeting notes or transcripts -> `meeting-notes-and-actions`
 - spreadsheet formulas or pivots -> `spreadsheet-formula-helper`

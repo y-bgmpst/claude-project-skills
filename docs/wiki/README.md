@@ -25,6 +25,9 @@ The repository deliberately keeps the runtime surface small:
 
 ## Current skills
 
+- `sql-security-guardrails`
+- `proxmox-ops-guardrails`
+- `web-app-security-guardrails`
 - `rust-security-guardrails`
 - `crusty-sort-guardrails`
 - `crusty-dlp-guardrails`
