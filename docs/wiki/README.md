@@ -11,6 +11,7 @@ This wiki documents how the repository is structured, how skills are maintained,
 - [Security and trust model](security-and-trust-model.md)
 - [Release and versioning](release-and-versioning.md)
 - [Contributing](contributing.md)
+- [macOS agent coding setup](macos-agent-coding-setup.md)
 
 ## Purpose
 
@@ -31,6 +32,7 @@ The repository deliberately keeps the runtime surface small:
 - `meeting-notes-and-actions`
 - `spreadsheet-formula-helper`
 - `file-organizer`
+- `bootstrap-router`
 
 ## Reading order
 
@@ -43,3 +45,4 @@ If you are new to the repo, read in this order:
 5. `security-and-trust-model.md`
 6. `release-and-versioning.md`
 7. `contributing.md`
+8. `macos-agent-coding-setup.md`
